@@ -2,7 +2,7 @@
 //  DBManager.swift
 //  DBDemo
 //
-//  Created by Patrick on 22/10/19.
+//  Created by Patrick.
 //  Copyright © 2019 Patrick. All rights reserved.
 //
 
